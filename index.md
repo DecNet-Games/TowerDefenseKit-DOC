@@ -8,6 +8,11 @@ nav_order: 1
 
 ![Tower Defense Complete Kit]({{ site.baseurl }}/assets/images/cover.png)
 
+<video controls preload="metadata" style="max-width:100%" poster="{{ site.baseurl }}/assets/images/cover.png">
+  <source src="{{ site.baseurl }}/assets/video/demo.mp4" type="video/mp4">
+</video>
+
+
 Assembling a tower-defense game the usual way means a grid system from one place, a wave spawner from another, an economy bolted on last — and weeks spent making them agree. The **Tower Defense Complete Kit** is the whole game in one box: grid and paths, towers, economy, campaign and meta systems, playable out of the box.
 
 Two systems make it unlike any standalone kit: its maps **generate from a seed**, and its encounters are **directed** — shaped by a difficulty curve and composed to a budget, with playtest telemetry to prove the pacing.
